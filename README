@@ -1,1 +1,13 @@
-Calculations with luminosity functions
+This is funly, calculations with luminosity functions
+
+Funly is distributed under GNU GPL, either version 3 of the License, 
+or (at your option) any later version. See the file COPYING for details.
+
+Funly requires the following packages installed in order to
+be able to be installed and work properly:
+
+ - setuptools (http://peak.telecommunity.com/DevCenter/setuptools)
+ - pymilia (http://guaix.fis.ucm.es/projects/milia)
+
+Maintainer: sergiopr@fis.ucm.es
+
